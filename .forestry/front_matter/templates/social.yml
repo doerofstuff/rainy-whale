@@ -1,0 +1,16 @@
+---
+label: Social Configuration
+hide_body: true
+is_partial: false
+fields:
+  - type: boolean
+    name: enabled
+    label: Enabled
+    default: false
+  - type: text
+    name: title
+    label: Section Title
+  - type: null
+    name: follow_section
+    label: Social Media Icons
+    description: A list of social media icons

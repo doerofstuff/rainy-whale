@@ -1,0 +1,13 @@
+---
+label: Footer Configuration
+hide_body: true
+is_partial: false
+fields:
+  - type: text
+    name: copyright
+    label: Footer Copyright
+    description: The copyright text displayed at the bottom of the site.
+  - type: null
+    name: links
+    label: Links
+    description: A list of links displayed in the footer.
